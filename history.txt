@@ -1,0 +1,500 @@
+   12  code numeros_cien.c
+   13  code numeros_cien.py
+   14  make numeros_cien
+   15  ./numeros_cien
+   16  python numeros_cien.py
+   17  python numeros_cien.py
+   18  python numeros_cien.py
+   19  make numeros_cien
+   20  make numeros_cien
+   21  make numeros_cien
+   22  make numeros_cien
+   23  muneros_cien
+   24  ./numeros_cien
+   25  make numeros_cien
+   26  ./numeros_cien
+   27  python numeros_cien.py
+   28  python numeros_cien.py
+   29  python numeros_cien.py
+   30  python numeros_cien.py
+   31  python numeros_cien.py
+   32  c/
+   33  mk dir
+   34  mkdir practica28
+   35  mkdir funcions
+   36  code meow.c
+   37  make meow
+   38  ./meow
+   39  ./meow
+   40  cd functions
+   41  ./meow
+   42  make meow
+   43  make meow
+   44  ./meow
+   45  code meow.py
+   46  python meow.py
+   47  make meow
+   48  make meow
+   49  ./
+   50  ./meow
+   51  make meow
+   52  make meow
+   53  ./meow
+   54  cd functions
+   55  make meow
+   56  make meow
+   57  make meow
+   58  make meow
+   59  ./meow
+   60  5
+   61  make meow
+   62  ./meow
+   63  ./meow
+   64  make meow
+   65  ./meow
+   66  ./meow
+   67  make meow
+   68  make meow
+   69  make meow
+   70  make meow
+   71  make meow
+   72  make meow
+   73  make meow
+   74  ./meow
+   75  make meow
+   76  ./meow
+   77  ./meow
+   78  cd playground
+   79  cd modules
+   80  cd playground
+   81  make mario
+   82  make mario
+   83  make
+   84  make mario
+   85  make mario
+   86  cd castel
+   87  make block
+   88  make block
+   89  /block
+   90  ./block
+   91  ./block
+   92  make castel
+   93  make castel
+   94  make block
+   95  make block
+   96  make block
+   97  ./block
+   98  make block
+   99  make block
+  100  ./block
+  101  ./block
+  102  make matrix
+  103  make matrix
+  104  make matrix
+  105  make matrix
+  106  make matrix
+  107  ./matrix
+  108  cd mario
+  109  ./mario
+  110  make escenario
+  111  make escenario
+  112  ./escenario
+  113  clear
+  114  ./escenario
+  115  cd mario
+  116  ./escenario
+  117  cd mario
+  118  escenario
+  119  make escenario
+  120  make mario
+  121  make escenario
+  122  ./escenario
+  123  cd mario
+  124  ./escenario
+  125  cd ..
+  126  cd .
+  127  cd ..
+  128  cd ..
+  129  mkdir escenario
+  130  cd escenario
+  131  cd escenario
+  132  cd escenario
+  133  cd escenario
+  134  cd ..
+  135  cd escenario
+  136  make level
+  137  cd escenario
+  138  cd escenario
+  139  cd esc
+  140  cd ./escenario
+  141  mkdir
+  142  mkdir --help
+  143  cd escenario
+  144  cdescenario
+  145  cd escenario
+  146  cd folder1
+  147  cd level.c
+  148  cd escenario
+  149  cd escenario
+  150  pwd
+  151  pwd
+  152  ls
+  153  cd 179893183
+  154  ./179893183/escenario
+  155  ls
+  156  cd escenario
+  157  cd ..
+  158  ls
+  159  cd workspaces
+  160  ls
+  161  cd 179893183
+  162  cd escenario
+  163  make level
+  164  make level
+  165  make level
+  166  make level
+  167  ./level
+  168  ./level
+  169  make level
+  170  ./level
+  171  gdb ./level
+  172  make level
+  173  ./level
+  174  make level
+  175  ./level
+  176  make level
+  177  ./level
+  178  make level
+  179  ./level
+  180  clear
+  181  make level
+  182  make level
+  183  make level
+  184  ./level
+  185  make level
+  186  level
+  187  ./level
+  188  cd escenario
+  189  make level
+  190  ./level
+  191  make level
+  192  cd level
+  193  make level
+  194  ./level
+  195  make level
+  196  ./level
+  197  make level
+  198  ./level
+  199  make level
+  200  make level
+  201  make level
+  202  make level
+  203  make level
+  204  clar
+  205  clear
+  206  make level
+  207  clear
+  208  make clear
+  209  make level
+  210  make level
+  211  ./level
+  212  make level
+  213  make level
+  214  ./level
+  215  make level
+  216  ./level
+  217  make level
+  218  ./level
+  219  make level
+  220  make level
+  221  ./
+  222  ./level
+  223  make level
+  224  ./level
+  225  make level
+  226  ./level
+  227  clear
+  228  make mario
+  229  make level
+  230  ./level
+  231  make level
+  232  make level
+  233  ./level
+  234  make level
+  235  make level
+  236  ./level
+  237  make level
+  238  make level
+  239  ./level
+  240  make level
+  241  make level
+  242  make level
+  243  ./level
+  244  mak elevel
+  245  make level
+  246  make level
+  247  ./level
+  248  make level
+  249  ./level
+  250  make level
+  251  ./level
+  252  make level
+  253  ./level
+  254  make level
+  255  ./level
+  256  make level
+  257  ./level
+  258  make level
+  259  ./level
+  260  make level
+  261  ./level
+  262  make level
+  263  ./level
+  264  make level
+  265  ./level
+  266  make level
+  267  ./level
+  268  make evel
+  269  make level
+  270  ./level
+  271  make level
+  272  ./level
+  273  make level
+  274  ./level
+  275  make level
+  276  ./level
+  277  make level
+  278  ./level
+  279  make level
+  280  ./level
+  281  make level
+  282  ./level
+  283  make level
+  284  ./level
+  285  make level
+  286  ./level
+  287  make level
+  288  ./level
+  289  make level
+  290  ./level
+  291  make level
+  292  ./level
+  293  make level
+  294  ./level
+  295  make level
+  296  ./level
+  297  make level
+  298  level./
+  299  ./level
+  300  make level
+  301  ./level
+  302  make level
+  303  ./level
+  304  make level
+  305  ./level
+  306  make level
+  307  ./level
+  308  make level
+  309  make level
+  310  ./level
+  311  make level
+  312  ./level
+  313  make level
+  314  ./level
+  315  make level
+  316  ./level
+  317  make level
+  318  ./level
+  319  make level
+  320  ./level
+  321  make level
+  322  ./level
+  323  make level
+  324  ./level
+  325  make level
+  326  ./level
+  327  make level
+  328  ./level
+  329  make level
+  330  ./level
+  331  make level
+  332  ./level
+  333  make level
+  334  ./level
+  335  make level
+  336  ./level
+  337  make level
+  338  ./level
+  339  make level
+  340  ./level
+  341  make level
+  342  ./level
+  343  make level
+  344  ./level
+  345  make level
+  346  make level
+  347  make level
+  348  make level
+  349  make level
+  350  ./level
+  351  make level
+  352  ./level
+  353  make level
+  354  ./level
+  355  make level
+  356  make level
+  357  ./level
+  358  make level
+  359  ./level
+  360  make level
+  361  ./level
+  362  make level
+  363  ./level
+  364  make level
+  365  ./level
+  366  make 2
+  367  ./2
+  368  make 2
+  369  ./2
+  370  make level
+  371  ./level
+  372  cd escenario
+  373  make 2
+  374  ./2
+  375  make 2
+  376  ./2
+  377  ./2
+  378  make 2
+  379  ./2
+  380  make 2
+  381  ./2
+  382  make 2
+  383  ./2
+  384  make 2
+  385  ./2
+  386  make 2
+  387  ./2
+  388  make 2
+  389  ./2
+  390  make escalera
+  391  pwd
+  392  cd escenario
+  393  make escalera
+  394  ./escalera
+  395  make escaleras
+  396  make escaleras
+  397  clear
+  398  make escaleras
+  399  make escalera
+  400  ./escalera
+  401  make escalera
+  402  ./escalera
+  403  make escalera
+  404  ./escalera
+  405  make level
+  406  ./level
+  407  git int
+  408  git init
+  409  make level
+  410  make level
+  411  cd escenario
+  412  make level
+  413  ./level
+  414  make level
+  415  make level
+  416  make level
+  417  make level
+  418  make level
+  419  ./level
+  420  make level
+  421  make level
+  422  ./level
+  423  make level
+  424  make level
+  425  clear
+  426  make level
+  427  make level
+  428  make level
+  429  make klevel
+  430  make level
+  431  make level
+  432  make level
+  433  cd exam
+  434  make 1
+  435  ./1
+  436  make 2
+  437  make 2
+  438  clear
+  439  make 2
+  440  make 2
+  441  make 2
+  442  ./2
+  443  make 2
+  444  clear
+  445  make 2
+  446  make 2
+  447  ./
+  448  ./2
+  449  make 1
+  450  make 1
+  451  ./1
+  452  make 1
+  453  make 1
+  454  make 1
+  455  make 1
+  456  make 1
+  457  ./
+  458  ./1
+  459  make 1
+  460  make 1
+  461  ./1
+  462  ./1
+  463  1
+  464  ./1
+  465  make 1
+  466  ./1
+  467  ./cd ..
+  468  cd..
+  469  cd ..
+  470  pwd
+  471  cd .
+  472  pwd
+  473  cd ..
+  474  mkdir temporal
+  475  cd temporal
+  476  git --version
+  477  git add 1.c
+  478  ls
+  479  clear
+  480  ls
+  481  git remote add origin https://github.com/Contreras-21/Examen.git
+  482  git status
+  483  ls
+  484  pwd
+  485  mkdir exam
+  486  cd exam
+  487  code prueba
+  488  code prueba.c
+  489  cd exam
+  490  cd prueba
+  491  code ex.c
+  492  git init
+  493  git add ex.c
+  494  git commit -m "Intento de examen: Segunda opción"
+  495  git remote add origin https://github.com/Contreras-21/Examen.git
+  496  git push -u origin master
+  497  git push -u origin main
+  498  history
+  499  history > comandos.txt
+  500  cd commandos
+  501  pwd
+  502  cd ..
+  503  cd temporal
+  504  ls
+  505  cd .
+  506  ls
+  507  cd ..
+  508  ls
+  509  cd temporal
+  510  history
+  511  history > history.txt
